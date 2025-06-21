@@ -1,2 +1,35 @@
-# -Criando-uma-Ferramenta-de-Controle-de-Investimentos-com-Excel
-Este laboratório tem como objetivo aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários, visandoautomatizar cálculos complexos, como o valor total investido, o patrimônio acumulado e os dividendos mensais, propocionando ao usuário uma visão clara de seu potencial retorno.
+# 📊 Ferramenta de Controle de Investimentos – Excel
+
+Esta é uma planilha criada para facilitar o controle de investimentos pessoais de forma prática, clara e eficiente. Ideal para quem deseja acompanhar aportes mensais, saldos atualizados e rentabilidade com base em uma taxa específica.
+
+# ✅ Funcionalidades
+
+- Cadastro de investimentos com nome, valor aplicado e rentabilidade;
+- Simulação de retorno com base na taxa atual do CDI;
+- Resumo automático dos valores aplicados e dos ganhos estimados;
+- Cálculo de rentabilidade acumulada por tipo de investimento;
+- Visualização de dados em gráficos simples e intuitivos;
+- Design limpo e totalmente editável.
+
+# 🧮 Requisitos
+
+- Microsoft Excel;
+- Conhecimentos básicos de Excel para edição.
+
+# 📝 Como usar
+
+1 - Abra o arquivo .xlsx no Excel.
+
+2 - Preencha seus investimentos na aba indicada.
+
+3 - Atualize a taxa do CDI, se desejar.
+
+4 - Veja os resultados automaticamente nos campos de resumo e gráficos.
+
+# 📌 Observações
+
+- A planilha é uma ferramenta educativa e de apoio. Não substitui aconselhamento financeiro profissional.
+- Personalize conforme sua necessidade (por exemplo: incluir novas categorias, metas etc.).
+
+# 📥 Download
+Clique em Code > Download ZIP ou baixe diretamente o arquivo
